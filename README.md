@@ -1,1 +1,2 @@
-# JavaCodeBase - 基础练习
+# JavaCodeBase
+基础练习
